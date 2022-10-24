@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdilsonAr
-- 👀 I’m interested in Java development and learn new technologies
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning about machine learning engineering
-- 💞️ I’m looking to collaborate on APIS with Spring boot
 - 📫 How to reach me? say hello through cycles.250@gmail.com
 
 <!---
